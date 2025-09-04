@@ -8,3 +8,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## My To-Do List 📝
+
+- [ ] turn on github pages
+- [ ] outline my portfolio
+- [ ] add code example
+
